@@ -1,0 +1,12 @@
+# Copyright (c) 2025 Brandon Beltran
+# SPDX-License-Identifier: MIT
+
+if BOARD_UWU30
+
+config ZMK_KEYBOARD_NAME
+    default "uwu30"
+
+config BT_CTLR
+    default BT
+
+endif # BOARD_UWU30

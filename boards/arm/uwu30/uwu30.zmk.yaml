@@ -1,0 +1,11 @@
+file_format: "1"
+id: uwu30
+name: uwu30
+type: board
+arch: arm
+outputs:
+  - usb
+  - ble
+url: https://www.cbkbd.com/
+features:
+  - keys
