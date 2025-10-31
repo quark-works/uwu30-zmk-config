@@ -54,7 +54,7 @@
             ;
     };
 
-/*
+
     default_splitbar_layout: layout_1 {
         compatible = "zmk,physical-layout";
         display-name = "Split spacebar";
@@ -100,5 +100,5 @@
             , <&key_physical_attrs 125 100  950  300       0     0     0>
             ;
     };
-*/
+
 };

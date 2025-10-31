@@ -25,4 +25,4 @@ manifest:
     path: config
 ```
 
-After doing so, add a copy of [the default keymap](arm/bault/uwu30.keymap) and create a `uwu30.conf` file `config` folder that is already in your repo. You can take a look at the [user repo](https://github.com/quark-works/uwu30-user-config) for an example.
+After doing so, add a copy of [the default keymap](boards/arm/uwu30/uwu30.keymap) and create a `uwu30.conf` file `config` folder that is already in your repo. You can take a look at the [user repo](https://github.com/quark-works/uwu30-user-config) for an example.
