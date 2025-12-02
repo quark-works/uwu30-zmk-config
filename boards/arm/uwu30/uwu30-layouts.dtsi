@@ -58,7 +58,7 @@
             ;
     };
 
-    default_layout: layout_1 {
+    default_big_bar_layout: layout_1 {
         compatible = "zmk,physical-layout";
         display-name = "Big bar";
 
